@@ -1,0 +1,43 @@
+2021-03-02 10:00:20.109  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 1.8.0_241 on DESKTOP-ODSV9A9 with PID 9360 (D:\IdeaWorkspace\demo\target\classes started by FZT in D:\IdeaWorkspace\demo)
+2021-03-02 10:00:20.125  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2021-03-02 10:00:20.178  INFO 9360 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-03-02 10:00:20.178  INFO 9360 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-03-02 10:00:21.242  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-02 10:00:21.258  INFO 9360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-02 10:00:21.258  INFO 9360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-02 10:00:21.348  INFO 9360 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-02 10:00:21.348  INFO 9360 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1170 ms
+2021-03-02 10:00:21.529  INFO 9360 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-02 10:00:21.687  INFO 9360 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-02 10:00:21.719  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-02 10:00:21.719  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 2.218 seconds (JVM running for 3.459)
+2021-03-02 10:00:43.266  INFO 9360 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-02 10:00:43.267  INFO 9360 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-02 10:00:43.268  INFO 9360 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-03-02 10:06:16.298  INFO 9360 --- [Thread-9] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-02 10:06:16.412  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 1.8.0_241 on DESKTOP-ODSV9A9 with PID 9360 (D:\IdeaWorkspace\demo\target\classes started by FZT in D:\IdeaWorkspace\demo)
+2021-03-02 10:06:16.412  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2021-03-02 10:06:16.607  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-02 10:06:16.607  INFO 9360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-02 10:06:16.607  INFO 9360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-02 10:06:16.623  INFO 9360 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-02 10:06:16.623  INFO 9360 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 211 ms
+2021-03-02 10:06:16.651  INFO 9360 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-02 10:06:16.682  INFO 9360 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-02 10:06:16.698  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-02 10:06:16.698  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 0.312 seconds (JVM running for 358.436)
+2021-03-02 10:06:16.698  INFO 9360 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-03-02 10:06:18.388  INFO 9360 --- [Thread-16] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-02 10:06:18.486  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 1.8.0_241 on DESKTOP-ODSV9A9 with PID 9360 (D:\IdeaWorkspace\demo\target\classes started by FZT in D:\IdeaWorkspace\demo)
+2021-03-02 10:06:18.486  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2021-03-02 10:06:18.602  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-02 10:06:18.618  INFO 9360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-02 10:06:18.618  INFO 9360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-02 10:06:18.643  INFO 9360 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-02 10:06:18.643  INFO 9360 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 157 ms
+2021-03-02 10:06:18.671  INFO 9360 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-02 10:06:18.687  INFO 9360 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-02 10:06:18.702  INFO 9360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-02 10:06:18.702  INFO 9360 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 0.241 seconds (JVM running for 360.442)
+2021-03-02 10:06:18.702  INFO 9360 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-03-02 10:08:47.438  INFO 9360 --- [Thread-21] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
